@@ -10,7 +10,7 @@ Om dit project te kunnen bewerken en compileren, moet je eenmalig het volgende i
    * **Windows/Linux:** Installeer [MiKTeX](https://miktex.org/) of [TeX Live](https://tug.org/texlive/).
    * **macOS:** Installeer [MacTeX](https://tug.org/mactex/).
 2. **Git:** Download en installeer [Git](https://git-scm.com/).
-3. **Visual Studio Code:** Onze code editor.
+3. **Visual Studio Code:** Code editor.
 4. **VS Code Extensies:**
    * Installeer de **LaTeX Workshop** extensie in VS Code (voor syntax highlighting en het compileren).
    * *(Optioneel)* Installeer **GitLens** (om makkelijk te zien wie wat geschreven heeft).
